@@ -6,6 +6,7 @@ Mapa interactivo de los 56 pasos a nivel (PaN) del tramo **General Roca – Cipo
 
 - Relevamiento de cada PaN: foto, prioridad, estado y señalética faltante.
 - Plan de telecomando por etapas, puesto de mando y enlace por la vía.
+- Nuevos apeaderos (General Roca, Allen, Fernández Oro y Facultad de Medicina) con los cruces cercanos a cada andén.
 - Tipo de calle y entorno de cada cruce (escuelas, salud, paradas) e índice de exposición.
 - Simulación del paso del tren.
 - Modo campo: ubicación propia, PaN más cercano, registro de coordenadas GPS y notas, exportación a CSV.
